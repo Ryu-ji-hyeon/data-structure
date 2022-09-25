@@ -1,3 +1,4 @@
+// 1.스택 사용해 중복숫자 제거
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX_STACK_SIZE 100
@@ -76,6 +77,7 @@ int main(void) {
 
 	return 0;
 }
+// 2. 스택 사용해 문자열 뒤집기
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
